@@ -14,10 +14,11 @@ Reconoce tokens de un subconjunto de C: palabras reservadas, operadores, identif
 
 ## Cómo compilar y ejecutar
 1. Generar código C:
-   flex.exe lexer.l
+   win_flex.exe lexer.l
 
 2. Compilar ejecutable:
    gcc lex.yy.c -o analizador.exe
 
 3. Ejecutar prueba:
+
    analizador.exe input.c
