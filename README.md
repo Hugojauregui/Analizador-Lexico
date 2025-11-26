@@ -1,4 +1,4 @@
-# Analizador Léxico - Subconjunto de C
+# Hands-on 4: Crear Analizador Léxico
 
 ## Integrantes del Equipo
 * Hugo Johnathan Jauregui Rabelero
@@ -22,4 +22,5 @@ Reconoce tokens de un subconjunto de C: palabras reservadas, operadores, identif
 3. Ejecutar prueba:
 
    analizador.exe input.c
+
 
